@@ -19,8 +19,8 @@
 <section id="projects">
   <ul>
     <li>
-      <a href="https://github.com/Azio0/Quoternator" target="_blank">
-        <strong>Quoternator</strong>: Retrieves a new quote each day and amends QUOTE.md with the new quote, author, and a time stamp.
+      <a href="https://github.com/Azio0/WebsiteServiceManagerOne" target="_blank">
+        <strong>WebsiteServiceManagerOne</strong>: An open-source web-based utility for monitoring the uptime, SSL status, and performance of your websites and API endpoints.
       </a>
     </li>
     <li>
