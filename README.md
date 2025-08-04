@@ -1,6 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Brad</h1>
-<h3 align="center">A passionate hobby developer from the United Kingdom</h3>
+![Header](./github-header-banner.png)
 
 <!-- Badges or Icons -->
 <p align="center">
