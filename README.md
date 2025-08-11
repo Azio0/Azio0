@@ -54,8 +54,13 @@
 </p>
 
 <!-- GitHub Stats and Top Languages side by side -->
-### 📊 GitHub Stats and Top Languages
+### 📊 GitHub Stats, TryHackMe and Top Languages
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+
+  <!-- TryHackMe Stats-->
+  <div style="width: 45%; text-align: center;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Azio0.png" alt="Brad's TryHackMe Stats" />
+  </div>
 
   <!-- GitHub Stats -->
   <div style="width: 45%; text-align: center;">
