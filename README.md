@@ -1,6 +1,3 @@
-<!-- Profile Header -->
-![Header](./github-header-banner.png)
-
 <!-- Badges or Icons -->
 <p align="center">
   <a href="https://github.com/azio0"><img src="https://img.shields.io/github/followers/azio0?label=Follow&style=social" alt="GitHub" /></a>
