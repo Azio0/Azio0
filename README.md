@@ -17,12 +17,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows11" width="40" height="40"/>
 </p>
-
-<!-- GitHub Stats and Top Languages side by side -->
-### 📊 GitHub Stats, TryHackMe and Top Languages
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
-  <!-- GitHub Stats -->
-  <div style="width: 45%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=azio0&show_icons=true&locale=en" alt="Brad's GitHub Stats" />
-  </div>
-</div>
